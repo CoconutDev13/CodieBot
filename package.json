@@ -1,0 +1,19 @@
+{
+  "name": "discord_js_bot",
+  "version": "1.0.0",
+  "description": "",
+  "type": "module",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node ./src",
+    "dev": "nodemon ./src",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^14.15.3",
+    "nodemon": "^3.1.2"
+  }
+}
